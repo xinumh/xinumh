@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-```text
-
-```
 [![xinumh's github stats](https://github-readme-stats.vercel.app/api?username=xinumh)](https://github.com/xinumh/github-readme-stats)
 <!--END_SECTION:waka-->
